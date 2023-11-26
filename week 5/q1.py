@@ -1,0 +1,5 @@
+user_input = input("Enter your name: ")
+print(user_input)
+print(user_input[0])
+print(user_input[:5])
+print(user_input[4:7])
